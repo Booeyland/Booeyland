@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Booey (Booey#0001)
+- 👀 I’m interested in creating discord bots, and making checkout automation tools 
+- 🌱 I’m currently learning Python
+- 📫 How to reach me: For fastest response dm me on Discord Booey#0001 or twitter at @iflipbots
